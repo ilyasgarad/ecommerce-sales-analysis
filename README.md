@@ -8,7 +8,7 @@ This project analyzes e-commerce sales data to uncover trends, customer behavior
 - Power BI (Visualization)
 
 ## 📊 Dashboard
-![Dashboard](image/image.png)
+![Dashboard](Image/image.png)
 
 ## 🔍 Key Insights
 - Revenue reached $20.9M across ~40K orders
